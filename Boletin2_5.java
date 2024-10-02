@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class boletin2_5 {
+public class Boletin2_5 {
     public static void main(String[] args){
         Scanner teclado=new Scanner(System.in);
         double millas, metros = 1852, resultado;
