@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class boletin2_4 {
+public class Boletin2_4 {
     Scanner teclado=new Scanner(System.in);
     public static void main(String[] args){
         int numero1, numero2, suma, resta, producto;
