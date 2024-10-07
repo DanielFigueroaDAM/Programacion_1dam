@@ -24,5 +24,6 @@ public class Boletin3_5 {
                     System.out.println("El tercer numero es el mayor");
                 }
             }
+                teclado.close();
         }
 }
